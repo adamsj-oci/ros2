@@ -379,3 +379,11 @@ repositories:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
     version: 7.0.0
+  ros2/rmw_opendds:
+    type: git
+    url: https://github.com/oci-labs/rmw_opendds.git
+    version: master
+  ros2/rosidl_typesupport_opendds:
+    type: git
+    url: https://github.com/oci-labs/rosidl_typesupport_opendds.git
+    version: master
